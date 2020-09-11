@@ -1,3 +1,3 @@
 # koa-user-system
 
-koa middleware, koa router, typeORM MySQL, exception handling
+koa middleware, koa router, typeORM MySQL, JWT(JSON WEB TOKEN), exception handling
